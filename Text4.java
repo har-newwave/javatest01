@@ -22,7 +22,7 @@ public class Text4{
 		System.out.println(longmax);
 		System.out.println(longmin);
 	
-	
+	ADASDUASIGFUIERV AZ
 	
 	
 	}
